@@ -1,0 +1,4 @@
+interface:
+  display_name: "npm scripts化"
+  short_description: "将项目运行、安装与部署流程统一抽为 npm scripts 的全局技能"
+  default_prompt: "Use $npm-scripts-hua to extract a project's startup, install, and deploy workflow into maintainable npm scripts."

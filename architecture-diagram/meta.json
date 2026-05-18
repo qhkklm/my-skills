@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "created_at": null,
+  "description": null,
+  "install_url": null,
+  "marketplace_skill_id": "github-direct-https---github-com-cocoon-ai-architecture-diagram-generator-architecture-diagram",
+  "marketplace_skill_slug": "architecture-diagram",
+  "marketplace_source_id": "github_direct",
+  "name": "architecture-diagram",
+  "remote_revision": null,
+  "repo_url": "https://github.com/Cocoon-AI/architecture-diagram-generator",
+  "skill_path": "architecture-diagram",
+  "source": "marketplace",
+  "tags": [],
+  "version": "1.0"
+}

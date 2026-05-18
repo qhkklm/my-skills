@@ -1,0 +1,4 @@
+interface:
+  display_name: "部署流水线"
+  short_description: "抽离 Docker、Compose 与 Jenkins/Harbor 部署骨架"
+  default_prompt: "使用 $deploy-pipeline 为当前项目抽离或补齐可复用的 Docker、Compose 与 Jenkins 发布链。"

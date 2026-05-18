@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1482b107-4680-4fd3-9a24-926503a6bafd",
+  "path": "url-to-rsshub-route",
+  "path_key": "url-to-rsshub-route",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

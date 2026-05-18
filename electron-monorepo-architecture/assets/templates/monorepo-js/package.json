@@ -1,0 +1,10 @@
+{
+  "name": "my-electron-app",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.0.0",
+  "scripts": {
+    "dev": "pnpm --filter @sample-app/renderer dev",
+    "build": "pnpm -r build"
+  }
+}

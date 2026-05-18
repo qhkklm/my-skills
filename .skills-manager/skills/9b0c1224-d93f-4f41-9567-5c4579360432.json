@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b0c1224-d93f-4f41-9567-5c4579360432",
+  "path": "npm-scripts-hua",
+  "path_key": "npm-scripts-hua",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

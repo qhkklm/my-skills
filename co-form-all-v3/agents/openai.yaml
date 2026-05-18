@@ -1,0 +1,4 @@
+interface:
+  display_name: "Co Form All V3"
+  short_description: "复用 co-form-all-v3 组件接入方式与字段配置规则"
+  default_prompt: "使用 co-form-all-v3 skill，完成 co-form 组件的接入、字段配置、事件处理或示例编写。"

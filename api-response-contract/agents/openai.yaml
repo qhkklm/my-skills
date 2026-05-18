@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Response Contract"
+  short_description: "统一接口响应结构、校验异常处理与 Swagger 文档约束"
+  default_prompt: "Use $api-response-contract to unify an API to one response envelope and align validation, Swagger, and tests."

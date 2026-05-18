@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ce68208e-5589-4929-b502-153557f0228d",
+  "path": "api-response-contract",
+  "path_key": "api-response-contract",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

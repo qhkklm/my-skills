@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "created_at": null,
+  "description": null,
+  "install_url": null,
+  "marketplace_skill_id": "github-direct-https---github-com-obra-superpowers-skills-brainstorming",
+  "marketplace_skill_slug": "skills/brainstorming",
+  "marketplace_source_id": "github_direct",
+  "name": "brainstorming",
+  "remote_revision": null,
+  "repo_url": "https://github.com/obra/superpowers",
+  "skill_path": "skills/brainstorming",
+  "source": "marketplace",
+  "tags": [],
+  "version": "1.0"
+}

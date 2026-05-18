@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af73bc43-be07-47e1-b236-a203f5dfdbee",
+  "path": "deploy-pipeline",
+  "path_key": "deploy-pipeline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

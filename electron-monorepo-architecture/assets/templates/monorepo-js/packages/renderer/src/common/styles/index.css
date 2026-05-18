@@ -1,0 +1,8 @@
+/* 全局样式只保留壳层约束，业务视觉细节交给组件和原子类。 */
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+  font-family: "Segoe UI", "PingFang SC", sans-serif;
+}

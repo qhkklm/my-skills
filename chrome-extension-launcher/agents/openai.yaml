@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chrome Extension Launcher"
+  short_description: "复用 Chrome 扩展本地启动脚本与调试接入流程"
+  default_prompt: "Use $chrome-extension-launcher to add or standardize a Chrome extension launch script for this project."

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "acce5770-2144-4768-ae9c-3d1a4a591b0d",
+  "path": "wxt",
+  "path_key": "wxt",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

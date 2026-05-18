@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "16b9357e-a1bd-490d-bd7b-5000fe547f5e",
+  "path": "co-form-all-v3",
+  "path_key": "co-form-all-v3",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

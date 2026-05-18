@@ -1,0 +1,7 @@
+interface:
+  display_name: "URL To RSSHub Route"
+  short_description: "单 URL 自动生成 RSSHub route 草稿与建议"
+  default_prompt: "Use $url-to-rsshub-route to turn a URL into an RSSHub route draft."
+
+policy:
+  allow_implicit_invocation: true

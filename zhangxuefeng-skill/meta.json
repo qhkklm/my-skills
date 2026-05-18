@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "created_at": null,
+  "description": null,
+  "install_url": null,
+  "marketplace_skill_id": "github-direct-https---github-com-alchaincyf-zhangxuefeng-skill",
+  "marketplace_skill_slug": "zhangxuefeng-skill",
+  "marketplace_source_id": "github_direct",
+  "name": "zhangxuefeng-skill",
+  "remote_revision": null,
+  "repo_url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+  "skill_path": "",
+  "source": "marketplace",
+  "tags": [],
+  "version": "1.0"
+}

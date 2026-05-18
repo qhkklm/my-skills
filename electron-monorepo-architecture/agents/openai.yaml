@@ -1,0 +1,7 @@
+interface:
+  display_name: "Electron 架构范式"
+  short_description: "Electron 单仓多包目录与渐进迁移顾问"
+  default_prompt: "使用 $electron-monorepo-architecture 为一个 Electron 项目输出单仓多包目录、边界说明和迁移步骤。"
+
+policy:
+  allow_implicit_invocation: true

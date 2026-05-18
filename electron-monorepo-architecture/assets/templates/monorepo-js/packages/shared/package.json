@@ -1,0 +1,10 @@
+{
+  "name": "@sample-app/shared",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    "./constants/ipc-channels": "./src/constants/ipc-channels.js",
+    "./contracts/preload-api": "./src/contracts/preload-api.js",
+    "./utils/task-name": "./src/utils/task-name.js"
+  }
+}

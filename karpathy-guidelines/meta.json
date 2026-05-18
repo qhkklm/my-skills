@@ -1,0 +1,16 @@
+{
+  "author": null,
+  "created_at": null,
+  "description": null,
+  "install_url": null,
+  "marketplace_skill_id": "github-direct-https---github-com-multica-ai-andrej-karpathy-skills-skills-karpathy-guidelines",
+  "marketplace_skill_slug": "skills/karpathy-guidelines",
+  "marketplace_source_id": "github_direct",
+  "name": "karpathy-guidelines",
+  "remote_revision": null,
+  "repo_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "skill_path": "skills/karpathy-guidelines",
+  "source": "marketplace",
+  "tags": [],
+  "version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9928e01d-1251-4b2c-9151-c0c3ccb3faac",
+  "path": "chrome-extension-launcher",
+  "path_key": "chrome-extension-launcher",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

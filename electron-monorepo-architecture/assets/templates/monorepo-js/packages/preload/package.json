@@ -1,0 +1,10 @@
+{
+  "name": "@sample-app/preload",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "dependencies": {
+    "@sample-app/shared": "workspace:*",
+    "electron": "^41.0.0"
+  }
+}

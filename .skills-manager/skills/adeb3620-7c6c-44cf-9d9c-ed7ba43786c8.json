@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "adeb3620-7c6c-44cf-9d9c-ed7ba43786c8",
+  "path": "electron-monorepo-architecture",
+  "path_key": "electron-monorepo-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
