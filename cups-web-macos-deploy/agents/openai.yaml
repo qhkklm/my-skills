@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deploy CUPS Web on macOS"
+  short_description: "Deploy cups-web on macOS with 1Panel and CUPS."
+  default_prompt: "Use $cups-web-macos-deploy to deploy or troubleshoot cups-web on macOS with local CUPS, 1Panel/OpenResty, LibreOffice conversion, and printer validation."
