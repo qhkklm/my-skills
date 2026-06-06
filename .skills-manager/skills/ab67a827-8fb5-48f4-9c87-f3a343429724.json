@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ab67a827-8fb5-48f4-9c87-f3a343429724",
+  "path": "kami",
+  "path_key": "kami",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/tw93/Kami",
+    "subpath": null,
+    "branch": null
+  }
+}

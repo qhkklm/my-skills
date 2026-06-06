@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d7b0a2c-4f69-40b5-a8d3-6b1c45fce202",
+  "path": "minimalist-ui",
+  "path_key": "minimalist-ui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/Leonxlnx/taste-skill",
+    "subpath": "skills\\minimalist-skill",
+    "branch": null
+  }
+}
