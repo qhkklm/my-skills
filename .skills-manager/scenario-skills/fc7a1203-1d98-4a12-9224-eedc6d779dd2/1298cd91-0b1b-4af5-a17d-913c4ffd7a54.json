@@ -6,6 +6,14 @@
   "tools": {
     "claude_code": true,
     "codex": true,
-    "github_copilot": true
+    "deepseek_harness": true,
+    "github_copilot": true,
+    "grok": true,
+    "openclaw": true,
+    "opencode": true,
+    "pi": true,
+    "qoder": true,
+    "workbuddy": true,
+    "zcode": true
   }
 }
