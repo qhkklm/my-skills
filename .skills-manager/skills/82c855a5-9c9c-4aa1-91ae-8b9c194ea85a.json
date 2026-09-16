@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "82c855a5-9c9c-4aa1-91ae-8b9c194ea85a",
+  "path": "i-have-adhd-2",
+  "path_key": "i-have-adhd-2",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "ayghri/i-have-adhd/i-have-adhd",
+    "subpath": "skills\\i-have-adhd",
+    "branch": null
+  }
+}
