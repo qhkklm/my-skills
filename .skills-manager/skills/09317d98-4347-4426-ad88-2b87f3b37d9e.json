@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "09317d98-4347-4426-ad88-2b87f3b37d9e",
+  "path": "pm-analytics",
+  "path_key": "pm-analytics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-analytics",
+    "branch": null
+  }
+}

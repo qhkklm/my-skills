@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "17ee65c4-bd97-46ec-b42b-662f6613686e",
+  "path": "pm-advisory-board",
+  "path_key": "pm-advisory-board",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-advisory-suite\\pm-advisory-board",
+    "branch": null
+  }
+}

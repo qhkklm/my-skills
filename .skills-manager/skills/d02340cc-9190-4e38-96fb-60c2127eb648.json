@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d02340cc-9190-4e38-96fb-60c2127eb648",
+  "path": "pm-url2proto",
+  "path_key": "pm-url2proto",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-url2proto",
+    "branch": null
+  }
+}

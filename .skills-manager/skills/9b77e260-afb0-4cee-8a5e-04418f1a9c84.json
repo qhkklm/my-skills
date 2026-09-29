@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b77e260-afb0-4cee-8a5e-04418f1a9c84",
+  "path": "pm-survey-designer",
+  "path_key": "pm-survey-designer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-survey-designer",
+    "branch": null
+  }
+}

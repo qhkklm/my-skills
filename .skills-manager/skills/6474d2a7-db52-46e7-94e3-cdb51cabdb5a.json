@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6474d2a7-db52-46e7-94e3-cdb51cabdb5a",
+  "path": "pm-postmortem-writer",
+  "path_key": "pm-postmortem-writer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-postmortem-writer",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "727a3d6d-898a-4e14-bd76-b8a7120e4da9",
+  "path": "pm-tracking-spec-writer",
+  "path_key": "pm-tracking-spec-writer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-tracking-spec-writer",
+    "branch": null
+  }
+}

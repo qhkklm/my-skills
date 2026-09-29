@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d4f3e7cc-5c31-41df-902f-01c67f761847",
+  "path": "pm-review-board",
+  "path_key": "pm-review-board",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-review-board",
+    "branch": null
+  }
+}

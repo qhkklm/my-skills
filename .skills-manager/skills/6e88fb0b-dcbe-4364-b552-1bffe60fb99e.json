@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6e88fb0b-dcbe-4364-b552-1bffe60fb99e",
+  "path": "pm-advisor-torres",
+  "path_key": "pm-advisor-torres",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-advisory-suite\\pm-advisor-torres",
+    "branch": null
+  }
+}

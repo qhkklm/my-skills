@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "98092a27-24ca-4ea8-8cca-e62009d6abf1",
+  "path": "pm-experiment-designer",
+  "path_key": "pm-experiment-designer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-experiment-designer",
+    "branch": null
+  }
+}

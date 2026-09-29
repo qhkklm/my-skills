@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "69783292-30e6-4488-b438-6a9361a5f735",
+  "path": "pm-advisor-cagan",
+  "path_key": "pm-advisor-cagan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-advisory-suite\\pm-advisor-cagan",
+    "branch": null
+  }
+}

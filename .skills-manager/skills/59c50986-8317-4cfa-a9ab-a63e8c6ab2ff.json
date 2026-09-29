@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "59c50986-8317-4cfa-a9ab-a63e8c6ab2ff",
+  "path": "pm-image2proto",
+  "path_key": "pm-image2proto",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-image2proto",
+    "branch": null
+  }
+}

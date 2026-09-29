@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6171fcae-5004-48fa-8a8d-8cf4e379dd10",
+  "path": "pm-method-story-mapping",
+  "path_key": "pm-method-story-mapping",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-advisory-suite\\pm-method-story-mapping",
+    "branch": null
+  }
+}

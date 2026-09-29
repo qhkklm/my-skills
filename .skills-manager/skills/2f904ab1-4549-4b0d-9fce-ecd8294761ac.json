@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f904ab1-4549-4b0d-9fce-ecd8294761ac",
+  "path": "pm-competitor-deconstructor",
+  "path_key": "pm-competitor-deconstructor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-competitor-deconstructor",
+    "branch": null
+  }
+}

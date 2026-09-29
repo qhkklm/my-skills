@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "61839983-779d-47c5-8260-35a3194855ad",
+  "path": "pm-master",
+  "path_key": "pm-master",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-master",
+    "branch": null
+  }
+}

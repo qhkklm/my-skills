@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5ee13d3d-b8e4-4165-854d-9db9aaeffb89",
+  "path": "pm-prioritization-engine",
+  "path_key": "pm-prioritization-engine",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-prioritization-engine",
+    "branch": null
+  }
+}

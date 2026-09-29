@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "947466c5-c8df-4e03-9385-6b1a40b8f98f",
+  "path": "pm-method-mom-test",
+  "path_key": "pm-method-mom-test",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/SpaceZephyr/pm-skills",
+    "subpath": "pm-advisory-suite\\pm-method-mom-test",
+    "branch": null
+  }
+}
