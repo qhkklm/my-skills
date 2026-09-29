@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "scenario_id": "fc7a1203-1d98-4a12-9224-eedc6d779dd2",
+  "skill_id": "5fec5eee-7a32-4b97-b3eb-38372379fb9c",
+  "sort_order": 12,
+  "tools": {
+    "antigravity": true,
+    "codebuddy": true,
+    "codex": true,
+    "deepseek_harness": true,
+    "grok": true,
+    "workbuddy": true,
+    "zcode": true
+  }
+}
