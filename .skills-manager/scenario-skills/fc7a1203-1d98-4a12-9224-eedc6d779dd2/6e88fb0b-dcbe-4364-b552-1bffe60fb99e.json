@@ -8,6 +8,8 @@
     "codebuddy": true,
     "codex": true,
     "deepseek_harness": true,
+    "gemini_cli": true,
+    "github_copilot": true,
     "grok": true,
     "workbuddy": true,
     "zcode": true
