@@ -7,7 +7,7 @@
     "antigravity": true,
     "codebuddy": true,
     "codex": true,
-    "deepseek_harness": true,
+    "deepseek_harness": false,
     "gemini_cli": true,
     "github_copilot": true,
     "grok": true,
