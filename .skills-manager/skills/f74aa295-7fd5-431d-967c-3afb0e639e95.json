@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f74aa295-7fd5-431d-967c-3afb0e639e95",
+  "path": "shadowbot-cli",
+  "path_key": "shadowbot-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/ying-dao/skills/tree/main/shadowbot-cli",
+    "subpath": "shadowbot-cli",
+    "branch": "main"
+  }
+}
