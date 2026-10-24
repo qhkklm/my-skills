@@ -12,6 +12,7 @@
     "gemini_cli": true,
     "github_copilot": true,
     "grok": true,
+    "opencode": true,
     "workbuddy": true,
     "zcode": true
   }
