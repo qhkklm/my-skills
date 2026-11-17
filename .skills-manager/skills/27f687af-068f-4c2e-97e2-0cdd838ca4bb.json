@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "27f687af-068f-4c2e-97e2-0cdd838ca4bb",
+  "path": "pull-remote-code",
+  "path_key": "pull-remote-code",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
